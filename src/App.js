@@ -7,9 +7,9 @@ function App() {
   // const person ={name:'Anoosh',age:30 }
   return (
     <div className="App">
-      <Navbar/>
+      <Navbar />
       <div className='content'>
-            <Home/>
+        <Home />
       </div>
     </div>
   );
